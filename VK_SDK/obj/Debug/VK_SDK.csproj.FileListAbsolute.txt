@@ -1,0 +1,5 @@
+c:\users\владимир\documents\visual studio 2012\Projects\VkDownloader\VK_SDK\obj\Debug\VK_SDK.csprojResolveAssemblyReference.cache
+c:\users\владимир\documents\visual studio 2012\Projects\VkDownloader\VK_SDK\bin\Debug\VK_SDK.dll
+c:\users\владимир\documents\visual studio 2012\Projects\VkDownloader\VK_SDK\bin\Debug\VK_SDK.pdb
+c:\users\владимир\documents\visual studio 2012\Projects\VkDownloader\VK_SDK\obj\Debug\VK_SDK.dll
+c:\users\владимир\documents\visual studio 2012\Projects\VkDownloader\VK_SDK\obj\Debug\VK_SDK.pdb
