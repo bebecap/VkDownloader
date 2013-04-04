@@ -1,0 +1,26 @@
+﻿<Window x:Class="VKD.UI.AudioWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AudioWindow" Height="458.2" Width="673" Loaded="Window_Loaded_1" Closed="Window_Closed_1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" /> 
+            <ColumnDefinition Width="3*"  />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Some info" Grid.Row="0" Grid.Column="0"></Label>
+        <ListBox Name="vkSongList" Height="Auto" Grid.Column="0" Grid.Row="1" SelectionMode="Multiple"/>
+        <Button Content="Import" Name="LoaDataBtn" Height="50" Grid.Column="0" Grid.Row="2"/>
+        <StackPanel Name="ListChooserPanel" Grid.Column="1" Grid.Row="0">
+            <Label Content="Hello, dolly"></Label>
+        </StackPanel>
+        <ListView Name="dataLibrary" Grid.Column="1" Grid.Row="1"/>
+        <StackPanel Name="playerPanel" Grid.Column="1" Grid.Row="2">
+            <Button Name="PlayerSide" Content="Play"/>
+        </StackPanel>
+    </Grid>
+</Window>

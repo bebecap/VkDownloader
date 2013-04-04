@@ -1,0 +1,15 @@
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\bin\Debug\VKD.exe.config
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\bin\Debug\VKD.exe
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\bin\Debug\VKD.pdb
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\UI\LoginWindow.baml
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\UI\LoginWindow.g.cs
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\App.g.cs
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\VKD_MarkupCompile.cache
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\VKD.g.resources
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\VKD.Properties.Resources.resources
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\VKD.csproj.GenerateResource.Cache
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\VKD.exe
+c:\users\владимир\documents\visual studio 2012\Projects\VKD\VKD\obj\Debug\VKD.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\VKD\VKD\obj\Debug\VKD.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\VKD\VKD\obj\Debug\UI\AudioWindow.baml
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\VKD\VKD\obj\Debug\UI\AudioWindow.g.cs
